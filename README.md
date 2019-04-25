@@ -1,2 +1,2 @@
-# react-native-test-app
-react-native-test-app
+# react-native-redux-test
+react-native redux-test app
